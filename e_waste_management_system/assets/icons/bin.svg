@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 320" width="256" height="320" fill="none">
+
+  <!-- Bin Outline -->
+  <path d="M40 50 H216 
+           L190 280 
+           Q188 295 172 295 
+           H84 
+           Q68 295 66 280 
+           L40 50 Z" stroke="rgb(253,111,34)" stroke-width="8" stroke-linejoin="round"></path>
+
+  <!-- Top Rim -->
+  <line x1="32" y1="50" x2="224" y2="50" stroke="rgb(253,111,34)" stroke-width="10" stroke-linecap="round"></line>
+  
+
+</svg>
